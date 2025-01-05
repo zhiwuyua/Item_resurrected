@@ -1,0 +1,3 @@
+{"user_id": 1, "name": "管理员", "address": "Admin Street", "phone": "1234567890", "email": "admin@admin.com", "password": "admin123", "role": "admin", "is_verified": true}
+{"user_id": 100000000, "name": "zhiwuyua", "address": "south zhongshan road", "phone": "13476323456", "email": "zhiwuyua@gmail.com", "password": "user123", "role": "user", "is_verified": true}
+{"user_id": 100000001, "name": "wuyuazhi", "address": "chongqing road", "phone": "23478761234", "email": "wuyuazhi@gmail.com", "password": "user123", "role": "user", "is_verified": true}
